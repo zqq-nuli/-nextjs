@@ -1,3 +1,4 @@
 pnpm format
 pnpm lint
 git add .
+pnpm commitlint --edit
